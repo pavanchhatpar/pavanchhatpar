@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a graduate student at Northeastern University. I'm working towards my Master's degree in Computer Science specializing in Data Science and Artificial Intelligence.
+<br/><br/>
+Currently, I'm walking into my last semester of grad school. I did Data Science internships at Honeywell and Wayfair while enrolled in grad school, where I contributed to projects using NLP and Survival Analysis using Deep Learning.
+<br/><br/>
+Outside of internships and curriculum, I have a keen interest in research topics related to NLP and Deep Learning; I'm open to collaborations on any of these topics.
+
+
 <!--
 **pavanchhatpar/pavanchhatpar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

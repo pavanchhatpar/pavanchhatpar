@@ -8,7 +8,7 @@ I have a keen interest in research topics related to NLP and Deep Learning. I ex
 <br/><br/>
 ⚡ Fun fact: As an undergrad student I wanted to learn android development and also find time to learn it, so I built an app that planned my leaves in school to never show up on the low attendance radar
 <br/><br/>
-Checkout my entire portfolio at [pavanchhatpar.github.io](pavanchhatpar.github.io)
+Checkout my entire portfolio at [pavanchhatpar.github.io](https://pavanchhatpar.github.io/)
 <!--
 **pavanchhatpar/pavanchhatpar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
